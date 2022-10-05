@@ -1,5 +1,5 @@
 {
-  "name": "John Smith",
+  "name": "Luke Kim",
   "links": [
     {
       "name": "Website",
@@ -8,17 +8,17 @@
     },
     {
       "name": "Email",
-      "link": "mailto:hello@gdsc.nz",
+      "link": "mailto:lukekim117@gmail.com",
       "icon": "fa-regular fa-envelope"
     },
     {
       "name": "GitHub",
-      "link": "https://github.com",
+      "link": "https://github.com/lukekimchi",
       "icon": "fa-brands fa-github"
     },
     {
       "name": "LinkedIn",
-      "link": "https://linkedin.com",
+      "link": "https://www.linkedin.com/in/luke-kim-b88b91152/",
       "icon": "fa-brands fa-linkedin"
     }
   ]
